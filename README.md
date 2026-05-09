@@ -4,7 +4,8 @@ Reproducibility package for the paper:
 
 > **Sparse Weak-Form Discovery of Stochastic Generators**  
 > Eshwar R A and Gajanan V. Honnavar  
-> PES University (EC Campus), Bengaluru
+> PES University (EC Campus), Bengaluru  
+> arXiv: https://arxiv.org/abs/2603.20904
 
 ---
 
