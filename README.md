@@ -109,7 +109,5 @@ WeakStochasticSINDy/
 
 - All stationary densities in Figure 3 are computed analytically via the
   Fokker–Planck formula — no Monte Carlo variance contaminates the comparison.
-- Figure 5 is purely analytical; it runs in under one second and has no
-  dependency on the experiment cache.
 - The code uses `np.trapezoid` (NumPy ≥ 2.0). On older NumPy installations,
   replace `np.trapezoid` with `np.trapz` in `src/` and `scripts/`.
